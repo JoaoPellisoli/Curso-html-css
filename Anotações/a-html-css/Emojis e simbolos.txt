@@ -1,0 +1,10 @@
+Pesquisar o emoji no site emojipedia.org ir em codepoints e pegar o codigo do emoji, por &#x substituindo o U+.
+Exemplo:&#x270C(✌)
+
+Simbolos especiais sao chamados de HTML Entities
+basta usar o & no inicio.
+Exemplo:&copy 
+
+Para adiconar"< >" no vscode temos que escrever 
+&lt:estamos pedindo para colocar simbolo menor:<
+&gt:estamos para colocar o simbolo de maior:>

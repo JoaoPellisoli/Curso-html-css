@@ -1,0 +1,9 @@
+Imagens Diânamicas 
+e preciso de trê tags: <picture>, <source> e <img>
+deve se  gerar imagens de tamnhos diferentes para o navegador carregar imagens, para cada cituação para isso e usado as tags
+<picture> e <source>.
+com a tag <source> colocamos as imagens que iram subistituir as imagens pradão. 
+Ex:
+<picture>
+ <source media="max-width:1050"
+</picture>  

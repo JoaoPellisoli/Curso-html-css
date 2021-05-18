@@ -1,0 +1,16 @@
+UnSplash
+Pexels
+FreePik
+Rawpixel
+Pixabay
+Libreshot
+Wikimedia Commons
+ cuidar para nao se confundir com imagens que estao a venda.
+
+Obtar por sempre utilizar JPEG com uma compactação entre 30% e 50%.
+PNG só deverá ser usado quando precisar de trasparência na foto.
+
+para usar favico precisamos ter o arquivo ICO.
+para baixar algun ícones prontos o site é:IconArchive
+se eu quiser desnhar um favicon acessar site:favicon.cc
+se quiser criar um ícone personalizado com imagens que tenho utilizar o site:favicon.io

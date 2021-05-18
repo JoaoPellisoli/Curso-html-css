@@ -1,0 +1,37 @@
+Hyperlinks permitem que você ligue um ponto a outro na WWW (World Wide Web).
+para criar links, deve ser usado âncoras através da tag <a> o principal atributo dela e o HREF, que cria um referência hipertexto.
+HREFLANG: Indica o idioma principla de um site. Ex:hreflang="en"
+
+Para controlar onde o site de destino vai abrir usasse o atributo TARGET
+target="_blank" abri o link em uma nova janela em branco.
+target="_self" vai abrir o link na janela ou frame atual (padão)
+target="_top" vai desfazer todos os frames e abrir o destino no navegador completo. 
+target="_parent" similar ao uso _top em uma referencia à janela mãe.
+nome-do-frame caso esteja usando frames, indicar o nome da janela a abrir.
+
+Existe um recurso bem interessante para links que é indicar qual é a natureza do destino usando o atributo rel. Esse atributo aceita vários valores, entre eles vou citar:
+next indica que o link é para a próxima parte do documento atual
+prev indica que o link é para a parte anterior do documento atual
+‣author indica que é um link para o site do autor do artigo atual
+external indica que é um link para outro site que não faz parte do site atual
+nofollow indica que é um link para um site não endossado, como um link pago
+
+Para colocar links de dowload. Basta fazer o link diretamente para o arquivo que se deseja efetuar o download e adicionar
+o atributo download com o valor configurado para o nome do arquivo a ser baixado e o atributo type para indicar ao navegador que tipo de arquivo está sendo baixado
+Ex:
+<a> href="arquivos/meulivro.pdf" dowload="meulivro.pdf" type="application/pdf">
+Baixe aqui o PDF do meu livro
+</a>
+Ex. de media types:
+application/zip
+-text/html
+-text/css
+-text/javascript
+-video/mp4
+-video/H264
+-video/JPEG
+-audio/aac
+-audio/mpeg
+-font/ttf
+-image/jpeg
+-image/png
