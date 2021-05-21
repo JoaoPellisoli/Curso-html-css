@@ -1,0 +1,13 @@
+Representação por nome:
+style="background-color: blue; color: white;"
+
+Representação por códigos Hexadecimais:
+Decimail: 0 1 2 3 4 5 6 7 8 9
+Hexadecimail: 0 1 2 3 4 5 6 7 8 9 A B C D E F
+style="background-color: #0000ff; color: #ffffff;
+
+Representação em RGB (Red, Green, Blue):
+style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);"
+
+Representação por HSL (Hue, Sturation, Luminosity)
+style="background-color: hsl(240, 100%, 50%); color: hsl(0, 0%, 100%);"
