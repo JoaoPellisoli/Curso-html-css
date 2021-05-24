@@ -1,0 +1,38 @@
+em HTML é id = em CSS é #
+em  HTML é class = em CSS é .
+
+SELETORES PERSONALIZADOS
+
+ # = id
+
+ . = Class
+
+ : = pseudo- class
+
+ :: = pseudo-elemento
+
+ > = clildren(Filho)
+	
+id: Só pode um elemento em um documento HTML, em outro documento pode ser usado o mesmo id.
+class: Pode vários elementos.
+
+Se usar id e class na mesma tag o id prevalece.
+
+Pseudo-Class:
+Uma pseudo-class é usada para definir um estado especial de um elemento.
+
+Por exemplo, pode ser usado para:
+
+Definir o estilo de um elemento quando o usuário passa o mouse sobre ele
+Estilizar links visitados e não visitados de maneira diferente
+Defina o estilo de um elemento quando ele receber o foco
+
+Pseudo-elemento:
+Um pseudo-elemento CSS é usado para estilizar partes específicas de um elemento.
+
+Por exemplo, pode ser usado para:
+
+Defina o estilo da primeira letra ou linha de um elemento
+Insira o conteúdo antes ou depois do conteúdo de um elemento
+
+
