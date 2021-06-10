@@ -1,7 +1,10 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 body{
-    background-color: rgb(241, 241, 175);
+    background-color: rgb(171, 221, 105);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -11,7 +14,17 @@ header {
 }
 
 h1#titulo {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+}
+
+h2 {
+    background-image: linear-gradient( to right, #29bd29cc, white) ;
 }
 
 p#inicial {
@@ -22,6 +35,11 @@ a {
     margin: 10px;
     text-decoration: unset;
     color: white;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
 }
 
 p {
