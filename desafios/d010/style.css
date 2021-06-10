@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(241, 241, 175);
+}
+
+header {
+    background-image: linear-gradient( #5aee64, #1b6e20);
+    margin: -10px 1px 1px 1px ;
+    padding: 10px;
+}
+
+h1#titulo {
+    text-align: center;
+}
+
+p#inicial {
+    text-align: center;
+}
+
+a {
+    margin: 10px;
+    text-decoration: unset;
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
