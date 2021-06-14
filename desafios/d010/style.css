@@ -1,5 +1,8 @@
 @charset "UTF-8";
-
+@font-face {
+    font-family: idroid;
+    src: url(fontes/idroid.otf);
+}
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body{
@@ -19,8 +22,7 @@ h1#titulo {
 }
 
 h1 {
-    font-family: 'VT323', monospace;
-    font-size: 40px;
+    font-family: 'idroid', monospace;
 }
 
 h2 {
@@ -35,6 +37,11 @@ a {
     margin: 10px;
     text-decoration: unset;
     color: white;
+}
+
+a:hover{
+    background-color: #043804;
+    padding: 10px;
 }
 
 main {
