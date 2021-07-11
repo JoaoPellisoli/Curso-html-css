@@ -1,3 +1,0 @@
-Front-end (Client-side): É desenvolvimento de HTML, CSS e JS, focado no úsuario.
-Back-end (Server-side):É desenvolivimento em PHP,JS,C#,Python,Ruby, Java, Mas interesado no código dele com o servidor.
-Full stack: Quando tem conhecimentos de Front-end e Back-end.
