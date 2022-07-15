@@ -28,10 +28,21 @@
         }
 
         thead, tfoot {
-            background-color: #4b4b4b;
+            background-color: #383838;
             color: white;
         }
 
+        tbody > tr:nth-child(odd) { /*2n-1*/
+            background-color: white;
+        }
+        tbody > tr:nth-child(even) { /*2n*/
+            background-color: lightgrey;
+        }
+        /* Outras formas
+        tr:nth-child(even)
+        tr:nth-child(2n)
+        tr:nth-child(2n-1)
+        */
         td.num {
             text-align: right;
         }
